@@ -1,0 +1,14 @@
+{
+  "name": "xbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.2"
+  }
+}
